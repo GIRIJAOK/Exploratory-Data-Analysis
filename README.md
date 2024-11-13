@@ -9,11 +9,8 @@ By leveraging **Python** and its powerful libraries, the project emphasizes the 
 - [Project Overview](#project-overview)
 - [Key Concepts](#key-concepts)
 - [Installation](#installation)
-- [How to Use](#how-to-use)
 - [Notebooks and Scripts](#notebooks-and-scripts)
 - [Real-World Applications](#real-world-applications)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
